@@ -1,0 +1,92 @@
+USER OVERVIEW
+
+User: Admin
+Tasks assigned: 4
+Percentage of tasks assigned to user: 33.33%
+Tasks completed: 2		Percentage complete = 50.00%
+Tasks not completed: 2		Percentage not complete = 50.00%
+Tasks overdue: 2		Percentage overdue = 50.00%
+
+User: Gareth
+Tasks assigned: 2
+Percentage of tasks assigned to user: 16.67%
+Tasks completed: 0		Percentage complete = 0.00%
+Tasks not completed: 2		Percentage not complete = 100.00%
+Tasks overdue: 2		Percentage overdue = 100.00%
+
+User: Adrian
+Tasks assigned: 0
+Percentage of tasks assigned to user: 0.00%
+Tasks completed: 0		Percentage complete = N/A
+Tasks not completed: 0		Percentage not complete = N/A
+Tasks overdue: 0		Percentage overdue = 100.00%
+
+User: Alice
+Tasks assigned: 0
+Percentage of tasks assigned to user: 0.00%
+Tasks completed: 0		Percentage complete = N/A
+Tasks not completed: 0		Percentage not complete = N/A
+Tasks overdue: 0		Percentage overdue = 100.00%
+
+User: Harriet
+Tasks assigned: 2
+Percentage of tasks assigned to user: 16.67%
+Tasks completed: 0		Percentage complete = 0.00%
+Tasks not completed: 2		Percentage not complete = 100.00%
+Tasks overdue: 2		Percentage overdue = 100.00%
+
+User: Eric
+Tasks assigned: 1
+Percentage of tasks assigned to user: 8.33%
+Tasks completed: 0		Percentage complete = 0.00%
+Tasks not completed: 1		Percentage not complete = 100.00%
+Tasks overdue: 0		Percentage overdue = 0.00%
+
+User: Harry
+Tasks assigned: 1
+Percentage of tasks assigned to user: 8.33%
+Tasks completed: 0		Percentage complete = 0.00%
+Tasks not completed: 1		Percentage not complete = 100.00%
+Tasks overdue: 0		Percentage overdue = 0.00%
+
+User: Dave
+Tasks assigned: 0
+Percentage of tasks assigned to user: 0.00%
+Tasks completed: 0		Percentage complete = N/A
+Tasks not completed: 0		Percentage not complete = N/A
+Tasks overdue: 0		Percentage overdue = 0.00%
+
+User: Reuben
+Tasks assigned: 1
+Percentage of tasks assigned to user: 8.33%
+Tasks completed: 0		Percentage complete = 0.00%
+Tasks not completed: 1		Percentage not complete = 100.00%
+Tasks overdue: 1		Percentage overdue = 100.00%
+
+User: Esther
+Tasks assigned: 0
+Percentage of tasks assigned to user: 0.00%
+Tasks completed: 0		Percentage complete = N/A
+Tasks not completed: 0		Percentage not complete = N/A
+Tasks overdue: 0		Percentage overdue = 100.00%
+
+User: Edward
+Tasks assigned: 0
+Percentage of tasks assigned to user: 0.00%
+Tasks completed: 0		Percentage complete = N/A
+Tasks not completed: 0		Percentage not complete = N/A
+Tasks overdue: 0		Percentage overdue = 100.00%
+
+User: Mary
+Tasks assigned: 1
+Percentage of tasks assigned to user: 8.33%
+Tasks completed: 0		Percentage complete = 0.00%
+Tasks not completed: 1		Percentage not complete = 100.00%
+Tasks overdue: 0		Percentage overdue = 0.00%
+
+User: Jane
+Tasks assigned: 0
+Percentage of tasks assigned to user: 0.00%
+Tasks completed: 0		Percentage complete = N/A
+Tasks not completed: 0		Percentage not complete = N/A
+Tasks overdue: 0		Percentage overdue = 0.00%

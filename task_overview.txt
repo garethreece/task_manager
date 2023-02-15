@@ -1,0 +1,12 @@
+TASK OVERVIEW FOR ALL USERS
+
+Number of tasks for all users = 12
+
+Number of tasks not completed = 10
+    Percentage of tasks not completed = 83.33%
+
+Number of tasks completed = 2
+    Percentage of tasks completed = 16.67%
+
+Number of taks overdue (all users) = 7
+    Percentage of tasks not completed and overdue = 58.33%

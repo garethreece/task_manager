@@ -1,0 +1,12 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 5 Nov 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 10 Nov 2019, No
+gareth, do that thing, i need to do the thing, 22 Nov 2022, 24 Nov 2022, No
+reuben, Organise football game, Need to book coaches and set reminder to get players to the game and ready for the next match. This will need a ref and a coach booking as well. Kits need to be washed and dried before the match, 22 Nov 2022, 05 Dec 2022, No
+harriet, Do the dinner, make dinner for the family including nut roast, 22 Nov 2022, 12 Dec 2022, No
+gareth, Capstone Project 2, Do the programming for the capstone project 2 and check if it is okay , 22 Nov 2022, 25 Apr 2022, No
+mary, Teach Maths, tutor session with student, 07 Dec 2022, 25 Dec 2022, No
+admin, Reach the stars, get to the stars by turning left at the moon, 07 Dec 2022, 28 Apr 2024, Yes
+admin, test this program, run the program and try to break it, 08 Dec 2022, 9 Dec 2022, No
+harriet, write a chrismas list, Make sure you put together a list to send to Santa, 08 Dec 2022, 12 Dec 2022, No
+eric, Send out christams cards, Write christmas cards put them in envelopes and post to friends., 08 Dec 2022, 20 Dec 2022, No
+harry, book tickets to the moon, find a cheap rocket and book tickets to the moon, 13 Dec 2022, 1 Jan 2023, No
